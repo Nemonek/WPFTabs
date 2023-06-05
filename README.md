@@ -58,7 +58,6 @@ Il codice di ogni tab risulta quindi essere composto da 4 parti:
   <TextBlock VerticalAlignment="Top" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">Output:</TextBlock>
   <TextBlock VerticalAlignment="Center" Grid.Row="3" Grid.Column="1" x:Name="OutputProgramName" Grid.ColumnSpan="2"></TextBlock>
 ```
-<br>
 #### Codice C#
 Come il codice XAML, anche il codice C# presenta una struttura ben definita:
 * Event Handler per la gestione del bottone 'avvia', la pressione di invio nella casella di input e del bottone 'reset'
